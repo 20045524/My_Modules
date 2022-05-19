@@ -3,4 +3,11 @@
     <string name="c322">C322: Data Centre and Cloud Mgmt</string>
     <string name="c346">C346: Mobile App Development</string>
     <string name="c382">C382: IT Service Delivery</string>
+    <string name="modulecode">ModuleCode</string>
+    <string name="modulename">ModuleName</string>
+    <string name="academicyear">AcademicYear</string>
+    <string name="semester">Semester</string>
+    <string name="modulecredit">ModuleCredit</string>
+    <string name="venue">Venue</string>
+    <string name="back">Go Back</string>
 </resources>

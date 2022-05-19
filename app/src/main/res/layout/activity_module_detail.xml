@@ -9,37 +9,37 @@
         android:id="@+id/tvModuleCode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ModuleCode"/>
+        android:text="@string/modulecode"/>
 
     <TextView
         android:id="@+id/tvModuleName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ModuleName"/>
+        android:text="@string/modulename"/>
 
     <TextView
         android:id="@+id/tvAcademicYear"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="AcademicYear"/>
+        android:text="@string/academicyear"/>
 
     <TextView
         android:id="@+id/tvSemester"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Semester"/>
+        android:text="@string/semester"/>
 
     <TextView
         android:id="@+id/tvModuleCredit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ModuleCredit"/>
+        android:text="@string/modulecredit"/>
 
     <TextView
         android:id="@+id/tvVenue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Venue"/>
+        android:text="@string/venue"/>
 
     <ImageView
         android:id="@+id/imgDisplay"
@@ -50,7 +50,7 @@
         android:id="@+id/btnBack"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Back" />
+        android:text="@string/back" />
 
 
 </LinearLayout>
